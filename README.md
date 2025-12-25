@@ -1,4 +1,3 @@
-# tema-port-cargo-throughput-prediction.
 # Predicting Cargo Throughput at Tema Port Using Machine Learning
 
 ## Overview
