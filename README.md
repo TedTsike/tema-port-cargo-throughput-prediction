@@ -30,4 +30,4 @@ This project demonstrates how machine learning can be applied to maritime logist
 
 ## Author
 Ted Andrew Tsike  
-Data Scientist |Mechanical Engineer 
+Data Scientist |Mechanical/Marine Engineer 
